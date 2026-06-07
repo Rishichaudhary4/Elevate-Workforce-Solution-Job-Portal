@@ -1,1 +1,4 @@
-# Elevate-Workforce-Solution-Job-Portal
+# Job-Portal
+Job Portal for college project
+Creator: Bipin Dhakal
+bipindhakal05@gmail.com
